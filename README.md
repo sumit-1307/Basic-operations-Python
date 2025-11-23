@@ -1,8 +1,8 @@
 # Basic-operations-Python
 Task-1 : Performing Basic Mathematical operations
-  >Taking First number as input from user
-  >Taking Second number as input from user       
-  >Defining Multiple user defined mathematical functions and calling functions 
+  >Taking First number as input from user.
+  >Taking Second number as input from user.       
+  >Defining Multiple user defined mathematical functions and calling functions. 
 
 Task 2 : Personalized Greeting for a user
   >Taking First name as input from User.
